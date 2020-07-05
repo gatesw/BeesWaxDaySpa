@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 export interface IServiceInfo {
     name: string,
     description: string,
-    price: string
+    price?: string
 }
 
 export interface ServiceCardProps {
@@ -17,7 +17,7 @@ export interface ServiceCardProps {
             <Card>
                 <Card.Title>{serviceInfo.name}</Card.Title>
                 {serviceInfo.description ? <Card.Text>{serviceInfo.description}</Card.Text> : ''}
-                <Card.Footer>{serviceInfo.price}</Card.Footer>
+                {serviceInfo.price ? <Card.Footer>{serviceInfo.price}</Card.Footer> : ''}
             </Card>
         </div>
       ); 

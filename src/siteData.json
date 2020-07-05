@@ -69,43 +69,35 @@
         "services": [
             {
                 "name": "Beeswax Special",
-                "description": "Service includes a 1/2 hour massage and a 1 hour facial.",
-                "price": "$100"
+                "description": "Service includes a 1/2 hour massage and a 1 hour facial."
             },
             {
                 "name": "Swedish Massage",
-                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles.",
-                "price": "$60 - $120"
+                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles."
             },        
             {
                 "name": "Deep Tissue Massage",
-                "description": "This type of massage involves longer, slower strokes with more pressure directed at the insertion and belly of the muscles.",
-                "price": "$60 - $120"
+                "description": "This type of massage involves longer, slower strokes with more pressure directed at the insertion and belly of the muscles."
             },
             {
                 "name": "Specific Massage",
-                "description": "This type of massage is directed at specific targeted muscle or group of muscles. Both the insertion and the origin of the muscle are addressed as well as the belly of the muscle in this massage.",
-                "price": "$60 - $120"
+                "description": "This type of massage is directed at specific targeted muscle or group of muscles. Both the insertion and the origin of the muscle are addressed as well as the belly of the muscle in this massage."
             },        
             {
                 "name": "Hot Stone Assist",
-                "description": "One or two hot stones can aid in the softening of the muscle tissue to increase the relaxation and help in the tone of the muscle.",
-                "price": "$60 - $120"
+                "description": "One or two hot stones can aid in the softening of the muscle tissue to increase the relaxation and help in the tone of the muscle."
             },        
             {
                 "name": "Hot Stone Massage",
-                "description": "Hot stones are used throughout the massage to warm and relax the tissue.",
-                "price": "$60 - $120"
+                "description": "Hot stones are used throughout the massage to warm and relax the tissue."
             },        
             {
                 "name": "Pregnancy Massage",
-                "description": "A special body pillow is used to help expecting moms position for comfort during the massage. This massage is usually more in the swedish style but can also be directed at certain areas of discomfort as well.",
-                "price": "$60 - $120"
+                "description": "A special body pillow is used to help expecting moms position for comfort during the massage. This massage is usually more in the swedish style but can also be directed at certain areas of discomfort as well."
             },        
             {
                 "name": "Chair Massage ",
-                "description": "Usually a 10 or 15 minute session where your remain clothed and seated in a specially designed chair that allows access to back, neck arms and hands. This is a great \"pick me up\" massage or used for specific back and shoulder area.",
-                "price": "$60 - $120"
+                "description": "Usually a 10 or 15 minute session where your remain clothed and seated in a specially designed chair that allows access to back, neck arms and hands. This is a great \"pick me up\" massage or used for specific back and shoulder area."
             }
         ]
     },
@@ -120,43 +112,35 @@
         "services": [
             {
                 "name": "European Facial",
-                "description": "Short on time? This 30 minute facial is perfect. This facial includes a cleansing, followed by an exfoliation mask, toner and finished with a moisturizer to nourish and protect your skin.",
-                "price": "$80"
+                "description": "Short on time? This 30 minute facial is perfect. This facial includes a cleansing, followed by an exfoliation mask, toner and finished with a moisturizer to nourish and protect your skin."
             },
             {
                 "name": "Mini Facial",
-                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles.",
-                "price": "$40"
+                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles."
             },        
             {
                 "name": "Gentleman's Facial",
-                "description": "Specifically designed with products meant for the male client. Get pampered with a deep cleanse followed by an exfoliation mask and moisturizing finish.",
-                "price": "$45"
+                "description": "Specifically designed with products meant for the male client. Get pampered with a deep cleanse followed by an exfoliation mask and moisturizing finish."
             },
             {
                 "name": "Body Polish",
-                "description": "A dry brush or exfoliating gloves are used to remove dry skin layer and stimulate healthy growth. Warm cleansing towels are followed by moisturizer leaving very soft, smooth, touchable skin.",
-                "price": "$50"
+                "description": "A dry brush or exfoliating gloves are used to remove dry skin layer and stimulate healthy growth. Warm cleansing towels are followed by moisturizer leaving very soft, smooth, touchable skin."
             },        
             {
                 "name": "Body Scrub",
-                "description": "Body Scrubs differ from polishes only in the type of exfoliation used. This treatment uses a sugar scrub to remove and nourish your skin. It is removed with warm towels and followed by a moisturizer. This treatment is sweetly stimulating!",
-                "price": "$60"
+                "description": "Body Scrubs differ from polishes only in the type of exfoliation used. This treatment uses a sugar scrub to remove and nourish your skin. It is removed with warm towels and followed by a moisturizer. This treatment is sweetly stimulating!"
             },        
             {
                 "name": "Back Facial",
-                "description": "We got your back for this treatment. Your back is double cleansed, followed by a moisturizing mask removed with warm towels. Moisturizer finishes this treatment leaving the skin on your back refreshed.",
-                "price": "$45"
+                "description": "We got your back for this treatment. Your back is double cleansed, followed by a moisturizing mask removed with warm towels. Moisturizer finishes this treatment leaving the skin on your back refreshed."
             },        
             {
                 "name": "Specialty Facials",
-                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial.",
-                "price": "$100"
+                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial."
             },        
             {
                 "name": "Beeswax Special",
-                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial.",
-                "price": "$100"
+                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial."
             }
         ]
     },
@@ -170,95 +154,77 @@
         "services": [
             {
                 "name": "Express Manicure",
-                "description": "*includes - soak, file/trim, massage with lotion, polish",
-                "price": "$20"
+                "description": "*includes - soak, file/trim, massage with lotion, polish"
             },
             {
                 "name": "Milk and Honey Manicure",
-                "description": "*includes - soak, cuticle care and scrub, nail shaping, dermal wrap hot butter massage, choice of polish",
-                "price": "$40"
+                "description": "*includes - soak, cuticle care and scrub, nail shaping, dermal wrap hot butter massage, choice of polish"
             },        
             {
                 "name": "Shellac/Gel Manicure",
-                "description": "*includes dry manicure, nail shaping and shellac or gel polish",
-                "price": "$45"
+                "description": "*includes dry manicure, nail shaping and shellac or gel polish"
             },
             {
                 "name": "DIP -Full set overlay",
-                "description": "*includes dry manicure, nail shaping and a full nail overlay with Cuccio Dip system",
-                "price": "$40"
+                "description": "*includes dry manicure, nail shaping and a full nail overlay with Cuccio Dip system"
             },        
             {
                 "name": "TIP -Full set",
-                "description": "*includes the application of tips as nail enchancements",
-                "price": "$60"
+                "description": "*includes the application of tips as nail enchancements"
             },        
             {
                 "name": "DIP and TIP",
-                "description": "",
-                "price": "$60"
+                "description": ""
             },        
             {
                 "name": "Express Pedicure",
-                "description": "Can't reach your feet? Our express pedicure includes a soak and file/trim to keep your feet looking good.",
-                "price": "(25-30 min) $25"
+                "description": "Can't reach your feet? Our express pedicure includes a soak and file/trim to keep your feet looking good."
             },        
             {
                 "name": "Milk and Honey Pedicure",
-                "description": "Milk and Honey Soak, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Hot Scented Towel, Milk and Honey Massage, & Polish",
-                "price": "(45 min) $40"
+                "description": "Milk and Honey Soak, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Hot Scented Towel, Milk and Honey Massage, & Polish"
             },        
             {
                 "name": "Queen Bee Pedicure",
-                "description": "Effervescent Milk and Honey Bath, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Callus Remover, Deep Transforming Moisture Wrap, Milk and Honey Massage, Moisture Heel Treatment, & Polish",
-                "price": "(60 min) $60"
+                "description": "Effervescent Milk and Honey Bath, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Callus Remover, Deep Transforming Moisture Wrap, Milk and Honey Massage, Moisture Heel Treatment, & Polish"
             }
         ],
         "addOns": [
             {
                 "name": "Shellac/gell add on",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Shellac/gell removal only",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Shellac/gell change only",
-                "description": "",
-                "price": "$22"
+                "description": ""
             },
             {
                 "name": "Dip or Tip removal only",
-                "description": "",
-                "price": "$20"
+                "description": ""
             },
             {
                 "name": "Rejuvenating/strengthening treatment - Add-on",
-                "description": "",
-                "price": "$5"
+                "description": ""
             },
             {
                 "name": "Paraffin Treatment",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Nail polish color change only",
-                "description": "",
-                "price": "$6"
+                "description": ""
             },
             {
                 "name": "French",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Nail Art",
-                "description": "",
-                "price": "Per Design"
+                "description": ""
             }
         ]
     },
@@ -272,48 +238,39 @@
         "mensServices": [
             {
                 "name": "Bikini",
-                "description": "",
-                "price": "$45"
+                "description": ""
             },
             {
                 "name": "Brow",
-                "description": "",
-                "price": "Starts at $10"
+                "description": ""
             },
             {
                 "name": "Hands",
-                "description": "",
-                "price": "$15"
+                "description": ""
             },
             {
                 "name": "Ears",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Full Arm",
-                "description": "",
-                "price": "Starts at $45"
+                "description": ""
             },
             {
                 "name": "Full Leg",
-                "description": "",
-                "price": "Starts at $45"
+                "description": ""
             },
             {
                 "name": "1/2 Arm",
-                "description": "",
-                "price": "$30"
+                "description": ""
             },
             {
                 "name": "Under arm",
-                "description": "",
-                "price": "Starts at $25"
+                "description": ""
             },
             {
                 "name": "Lower Leg",
-                "description": "",
-                "price": "$40"
+                "description": ""
             },
             {
                 "name": "Brazilian",
@@ -322,11 +279,10 @@
             },
             {
                 "name": "Buttocks",
-                "description": "",
-                "price": "$30"
+                "description": ""
             },
             {
-                "name": "Back / Chest",
+                "name": "Back or Chest",
                 "description": "",
                 "price": "Starts at $45"
             }
@@ -334,48 +290,39 @@
         "womensServices": [
             {
                 "name": "Bikini",
-                "description": "",
-                "price": "$40"
+                "description": ""
             },
             {
                 "name": "Brow",
-                "description": "",
-                "price": "Starts at $10"
+                "description": ""
             },
             {
                 "name": "Upper Lip",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Chin",
-                "description": "",
-                "price": "$10"
+                "description": ""
             },
             {
                 "name": "Full Arm",
-                "description": "",
-                "price": "$45"
+                "description": ""
             },
             {
                 "name": "Full Leg",
-                "description": "",
-                "price": "$60"
+                "description": ""
             },
             {
                 "name": "1/2 Arm",
-                "description": "",
-                "price": "$30"
+                "description": ""
             },
             {
                 "name": "Under arm",
-                "description": "",
-                "price": "$25"
+                "description": ""
             },
             {
                 "name": "Lower Leg",
-                "description": "",
-                "price": "$40"
+                "description": ""
             },
             {
                 "name": "Brazilian",
