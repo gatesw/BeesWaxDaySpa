@@ -1,0 +1,76 @@
+
+@media screen and (max-width:766px){
+	
+	header {
+		nav#primary-nav {
+			padding: 0 !important;
+			.container { width: 100% !important; }
+			.navbar-collapse {
+				background-color: #fcaf41;
+				ul.nav { 
+					padding: 0 8px;
+				}
+			}
+		}
+	}
+	
+	.pull-left,
+	.pull-right {
+		float: none !important;
+	}
+	
+	.desktop-only { display: none; }
+}
+
+@media screen and (min-width:767px){
+	footer {
+		#arrow-up-top {
+			position: absolute;
+			right: 10px;
+			top: 10px;	
+		}
+	}
+	.mobile-only { display: none; }
+}
+
+@media screen and (max-width:1000px){
+	section#call-out {
+		.honeycombs-wrapper {
+			.honeycombs-inner-wrapper {
+				height: 1135px !important;
+				overflow-y: scroll;
+			}
+		}
+	}
+	#s-about {
+		border: 4px solid orange
+	}
+}
+
+@media screen and (min-width:1001px){
+	section#call-out {
+   		margin-top: -140px;
+	}
+	section#call-out {
+		.honeycombs-wrapper {
+			.honeycombs-inner-wrapper {
+				height: 900px !important;
+			}
+		}
+	}
+	.clientsSayCarousel {
+		.carousel-inner {
+			height: 185px;
+		}
+	}
+	section#hours-rates {
+		article.special-box {
+			position: absolute;
+			top: 0;
+			right: -120px;
+			transform: rotate(-7deg);
+		}	
+	}
+}
+
+

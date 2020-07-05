@@ -1,0 +1,449 @@
+{
+    "home": {
+        "testimonials": [
+            {
+                "message": "I have been dealing with a pinched nerve in my neck and the pain continuing down my arm, I went in to see Jinny and it was amazing. The pain has subsided and I can't wait to go back again I would highly recommend anybody to give her a call she is wonderful!!!!!!",
+                "clientName": "Heidi Heindel Sanderfoot"
+            },
+            {
+                "message": "Had a chair massage and it was amazing. It was my first massage and I will be back for sure. Jinny is knowledgable and her technique is spot on. I felt so relaxed and happy after. I would recommend to everyone.",
+                "clientName": "Heidi Heindel Sanderfoot"
+            },
+            {
+                "message": "Jinny is amazing!! After seeing her my shoulder feels 100% better! I would recommend her to everyone!",
+                "clientName": "Kymberly Carlson"
+            },
+            {
+                "message": "Had been dealing with a shoulder problem for about a year. Gone to an orthopedic doctor, had a cortisone shot, weeks of physical therapy and I still could not raise that arm straight over my head or behind my back. After my first session with Jinny, I could reach for the stars again. Shoulder is still not 100% but I am now hopeful! Thank you, Jinny!",
+                "clientName": "Barb Betcher"
+            },
+            {
+                "message": "This was my very first body massage, and it was amazing! I was comfortable, and relaxed, and I feel relieved of the pain I walked in with!! I will be coming back!",
+                "clientName": "Emily Brockman"
+            },
+            {
+                "message": "I had a great experience. Loved every minute of my hour massage. It was amazing and I felt so comfortable. I highly recommend!",
+                "clientName": "Sara Biese Hurt"
+            },
+            {
+                "message": "This was my first time getting a massage. I was a little nervous at first, but was so pleased when all was done. I feel so fresh and relaxed. Will definitely be coming back.",
+                "clientName": "Bea Baumler"
+            },
+            {
+                "message": "I had some awful back pain that would not go away so I went in to see Jinny and I will absolutely be coming back. She was incredible - the best massage I've ever had. Thank you Jinny - I can't wait to come see you again!",
+                "clientName": "Emilee Jedlicka"
+            },
+            {
+                "message": "Don't let the modest exterior fool ya...these gals know deep-tissue message. As good or better than my old masseuse in Milwaukee. And little discounts given on next visit r insensitive. Great for xmas gift or yourself.",
+                "clientName": "Karl Owens"
+            },
+            {
+                "message": "I just had a facial and it was AMAZING! So relaxing, everything smelled so good and and the massage was great. Ginny knows what she's doing! Great place to relax!",
+                "clientName": "Jamie Wilson Harvey"
+            }
+        ]
+    },
+    "specials": {
+        "massageRates": "60 minutes $60 / 90 minutes for $90 / 120 minutes for $120",
+        "services": [
+            {
+                "name": "Team Beeswax",
+                "description": "We have such a great massage team here at Beeswax. We would love you to try all three of us. Starting Monday September 16, 2019 : Get a card punch with the therapist you received your massage with. Collect all 3 and receive a $10 off your next massage.",
+                "price": "collect 3 recieve $10 off"
+            },
+            {
+                "name": "Nail Art",
+                "description": "Receive nail art free on 2 fingers when you purchase a deluxe service.",
+                "price": "Free with Purchase"
+            }
+        ]
+    },
+    "massage": {
+        "massageRates": "60 minutes $60 / 90 minutes for $90 / 120 minutes for $120",
+        "serviceBar": {
+            "item1": "Swedish Massage",
+            "item2": "Deep Tissue Massage",
+            "item3": "Specific Massage",
+            "item4": "Prenatal Massage"
+        },
+        "services": [
+            {
+                "name": "Beeswax Special",
+                "description": "Service includes a 1/2 hour massage and a 1 hour facial.",
+                "price": "$100"
+            },
+            {
+                "name": "Swedish Massage",
+                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles.",
+                "price": "$60 - $120"
+            },        
+            {
+                "name": "Deep Tissue Massage",
+                "description": "This type of massage involves longer, slower strokes with more pressure directed at the insertion and belly of the muscles.",
+                "price": "$60 - $120"
+            },
+            {
+                "name": "Specific Massage",
+                "description": "This type of massage is directed at specific targeted muscle or group of muscles. Both the insertion and the origin of the muscle are addressed as well as the belly of the muscle in this massage.",
+                "price": "$60 - $120"
+            },        
+            {
+                "name": "Hot Stone Assist",
+                "description": "One or two hot stones can aid in the softening of the muscle tissue to increase the relaxation and help in the tone of the muscle.",
+                "price": "$60 - $120"
+            },        
+            {
+                "name": "Hot Stone Massage",
+                "description": "Hot stones are used throughout the massage to warm and relax the tissue.",
+                "price": "$60 - $120"
+            },        
+            {
+                "name": "Pregnancy Massage",
+                "description": "A special body pillow is used to help expecting moms position for comfort during the massage. This massage is usually more in the swedish style but can also be directed at certain areas of discomfort as well.",
+                "price": "$60 - $120"
+            },        
+            {
+                "name": "Chair Massage ",
+                "description": "Usually a 10 or 15 minute session where your remain clothed and seated in a specially designed chair that allows access to back, neck arms and hands. This is a great \"pick me up\" massage or used for specific back and shoulder area.",
+                "price": "$60 - $120"
+            }
+        ]
+    },
+    "skinCare": {
+        "serviceBar": 
+        {
+            "item1": "Body Polish",
+            "item2": "European Facials",
+            "item3": "Express Facials",
+            "item4": "And More"
+        },
+        "services": [
+            {
+                "name": "European Facial",
+                "description": "Short on time? This 30 minute facial is perfect. This facial includes a cleansing, followed by an exfoliation mask, toner and finished with a moisturizer to nourish and protect your skin.",
+                "price": "$80"
+            },
+            {
+                "name": "Mini Facial",
+                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles.",
+                "price": "$40"
+            },        
+            {
+                "name": "Gentleman's Facial",
+                "description": "Specifically designed with products meant for the male client. Get pampered with a deep cleanse followed by an exfoliation mask and moisturizing finish.",
+                "price": "$45"
+            },
+            {
+                "name": "Body Polish",
+                "description": "A dry brush or exfoliating gloves are used to remove dry skin layer and stimulate healthy growth. Warm cleansing towels are followed by moisturizer leaving very soft, smooth, touchable skin.",
+                "price": "$50"
+            },        
+            {
+                "name": "Body Scrub",
+                "description": "Body Scrubs differ from polishes only in the type of exfoliation used. This treatment uses a sugar scrub to remove and nourish your skin. It is removed with warm towels and followed by a moisturizer. This treatment is sweetly stimulating!",
+                "price": "$60"
+            },        
+            {
+                "name": "Back Facial",
+                "description": "We got your back for this treatment. Your back is double cleansed, followed by a moisturizing mask removed with warm towels. Moisturizer finishes this treatment leaving the skin on your back refreshed.",
+                "price": "$45"
+            },        
+            {
+                "name": "Specialty Facials",
+                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial.",
+                "price": "$100"
+            },        
+            {
+                "name": "Beeswax Special",
+                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial.",
+                "price": "$100"
+            }
+        ]
+    },
+    "nails": {
+        "serviceBar": {
+            "item1": "Express Manicure",
+            "item2": "Milk and Honey Manicure",
+            "item3": "Nail Enhancements",
+            "item4": "Pedicures"
+        },
+        "services": [
+            {
+                "name": "Express Manicure",
+                "description": "*includes - soak, file/trim, massage with lotion, polish",
+                "price": "$20"
+            },
+            {
+                "name": "Milk and Honey Manicure",
+                "description": "*includes - soak, cuticle care and scrub, nail shaping, dermal wrap hot butter massage, choice of polish",
+                "price": "$40"
+            },        
+            {
+                "name": "Shellac/Gel Manicure",
+                "description": "*includes dry manicure, nail shaping and shellac or gel polish",
+                "price": "$45"
+            },
+            {
+                "name": "DIP -Full set overlay",
+                "description": "*includes dry manicure, nail shaping and a full nail overlay with Cuccio Dip system",
+                "price": "$40"
+            },        
+            {
+                "name": "TIP -Full set",
+                "description": "*includes the application of tips as nail enchancements",
+                "price": "$60"
+            },        
+            {
+                "name": "DIP and TIP",
+                "description": "",
+                "price": "$60"
+            },        
+            {
+                "name": "Express Pedicure",
+                "description": "Can't reach your feet? Our express pedicure includes a soak and file/trim to keep your feet looking good.",
+                "price": "(25-30 min) $25"
+            },        
+            {
+                "name": "Milk and Honey Pedicure",
+                "description": "Milk and Honey Soak, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Hot Scented Towel, Milk and Honey Massage, & Polish",
+                "price": "(45 min) $40"
+            },        
+            {
+                "name": "Queen Bee Pedicure",
+                "description": "Effervescent Milk and Honey Bath, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Callus Remover, Deep Transforming Moisture Wrap, Milk and Honey Massage, Moisture Heel Treatment, & Polish",
+                "price": "(60 min) $60"
+            }
+        ],
+        "addOns": [
+            {
+                "name": "Shellac/gell add on",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Shellac/gell removal only",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Shellac/gell change only",
+                "description": "",
+                "price": "$22"
+            },
+            {
+                "name": "Dip or Tip removal only",
+                "description": "",
+                "price": "$20"
+            },
+            {
+                "name": "Rejuvenating/strengthening treatment - Add-on",
+                "description": "",
+                "price": "$5"
+            },
+            {
+                "name": "Paraffin Treatment",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Nail polish color change only",
+                "description": "",
+                "price": "$6"
+            },
+            {
+                "name": "French",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Nail Art",
+                "description": "",
+                "price": "Per Design"
+            }
+        ]
+    },
+    "waxing": {
+        "serviceBar": {
+            "item1": "Brazilian",
+            "item2": "Brows",
+            "item3": "Full leg",
+            "item4": "And More"
+        },
+        "mensServices": [
+            {
+                "name": "Bikini",
+                "description": "",
+                "price": "$45"
+            },
+            {
+                "name": "Brow",
+                "description": "",
+                "price": "Starts at $10"
+            },
+            {
+                "name": "Hands",
+                "description": "",
+                "price": "$15"
+            },
+            {
+                "name": "Ears",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Full Arm",
+                "description": "",
+                "price": "Starts at $45"
+            },
+            {
+                "name": "Full Leg",
+                "description": "",
+                "price": "Starts at $45"
+            },
+            {
+                "name": "1/2 Arm",
+                "description": "",
+                "price": "$30"
+            },
+            {
+                "name": "Under arm",
+                "description": "",
+                "price": "Starts at $25"
+            },
+            {
+                "name": "Lower Leg",
+                "description": "",
+                "price": "$40"
+            },
+            {
+                "name": "Brazilian",
+                "description": "",
+                "price": "Starts at $60"
+            },
+            {
+                "name": "Buttocks",
+                "description": "",
+                "price": "$30"
+            },
+            {
+                "name": "Back / Chest",
+                "description": "",
+                "price": "Starts at $45"
+            }
+        ],
+        "womensServices": [
+            {
+                "name": "Bikini",
+                "description": "",
+                "price": "$40"
+            },
+            {
+                "name": "Brow",
+                "description": "",
+                "price": "Starts at $10"
+            },
+            {
+                "name": "Upper Lip",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Chin",
+                "description": "",
+                "price": "$10"
+            },
+            {
+                "name": "Full Arm",
+                "description": "",
+                "price": "$45"
+            },
+            {
+                "name": "Full Leg",
+                "description": "",
+                "price": "$60"
+            },
+            {
+                "name": "1/2 Arm",
+                "description": "",
+                "price": "$30"
+            },
+            {
+                "name": "Under arm",
+                "description": "",
+                "price": "$25"
+            },
+            {
+                "name": "Lower Leg",
+                "description": "",
+                "price": "$40"
+            },
+            {
+                "name": "Brazilian",
+                "description": "",
+                "price": "Starts at $60"
+            }            
+        ]
+    },
+    "faqs":{
+        "serviceBar": {
+            "item1": "Massage",
+            "item2": "Skin Care & Facials",
+            "item3": "Nails",
+            "item4": "Waxing"
+        },        
+        "massageFaqs": [
+            {
+                "question": "Where will my massage or bodywork session take place?",
+                "answer": "Your massage or bodywork session will take place in a warm, comfortable, quiet room. Soft music may be played to help you relax. You will lie on a table especially designed for your comfort."
+            },
+            {
+                "question": "Must I be completely undressed?",
+                "answer": "Most massage and bodywork techniques are traditionally performed with the client unclothed; however, it is entirely up to you what you want to wear. You should undress to your level of comfort. You will be properly draped during the entire session."
+            },
+            {
+                "question": "What will the massage or bodywork feel like?",
+                "answer": "A relaxing Swedish massage is often a baseline for clients. In a general Swedish massage, your session may start with broad, flowing strokes that will help calm your nervous system and relax exterior muscle tension. As your body becomes relaxed, pressure will gradually be increased to relax specific areas and relieve areas of muscular tension. Often, a light oil or lotion is used to allow your muscles to be massaged without causing excessive friction to the skin. The oil also helps hydrate your skin. You should communicate immediately if you feel any discomfort so that another approach may be taken. Massage and bodywork are most effective when your body is not resisting."
+            },
+            {
+                "question": "Are there different kinds of massage and bodywork?",
+                "answer": "There are numerous types of massage and bodywork; various techniques utilize different strokes, including basic rubbing strokes, rocking movement, posture and movement re-education, application of pressure to specific points, and more. We can discuss which methods may be most appropriate for you."
+            },
+            {
+                "question": "What are the benefits of massage and bodywork?",
+                "answer": "Massage and bodywork can help release chronic muscular tension and pain, improve circulation, increase joint flexibility, reduce mental and physical fatigue and stress, promote faster healing of injured muscular tissue, improve posture, and reduce blood pressure. Massage and bodywork is also known to promote better sleep, improve concentration, reduce anxiety and create an overall sense of well-being."
+            },
+            {
+                "question": "Are there any medical conditions that would make massage or bodywork inadvisable?",
+                "answer": "Yes. That's why it's imperative that, before you begin your session, the practitioner asks general health questions. It is very important that you inform the practitioner of any health problems or medications you are taking. If you are under a doctor's care, it is strongly advised that you receive a written recommendation for massage or bodywork prior to any session. Depending on the condition, approval from your doctor may be required."
+            }
+        ],
+        "skinCareFaqs": [
+            {
+                "question": "What is a chemical peel?",
+                "answerFile": "WhatsIsAChemicalPeel"
+            },
+            {
+                "question": "What is a facial? Why do I need one?",
+                "answerFile": "WhatIsAFacialWhyDoINeedOne"
+            },
+            {
+                "question": "How can I get a “safe” tan? How do I choose the right sunblock?",
+                "answerFile": "HowCanIGetASafeTanHowDoIChooseTheRightSunBlock"
+            },
+            {
+                "question": "Why should I see an esthetician?",
+                "answerFile": "WhyShouldISeeAnEsthetician"
+            }
+        ],
+        "waxingFaqs": [
+            {
+                "question": "I’ve never been waxed before. How is it done?",
+                "answerFile": "IveNeverBeenWaxedBeforeHowIsItDone"
+            },
+            {
+                "question": "What is Brazilian waxing?",
+                "answerFile": "WhatIsBraziliamWaxing"
+            }
+        ]
+    }
+}

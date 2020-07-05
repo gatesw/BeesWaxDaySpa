@@ -1,0 +1,23 @@
+A chemical peel is an acid solution that is applied to the skin. It dissolves the outermost layer of skin cells, which then peels off over the following days to reveal the fresher, younger layer below. Peels are very effective in treating a large range of skin concerns such as aging, sun damage, acne, mild scarring, improving skin brightness, and evening skin tone.
+
+Peels can be light, moderate or deep. Light peels require no down time from work and your normal activities. Moderate peels may require a day or two, and deep peels can require a week or more of down time to allow the skin to fully heal. Estheticians who are not working in a medical setting perform light to moderate peels only. Deep peels can only be performed by a physician, or under a physician’s supervision, for your safety.
+
+### Preparing for treatment
+
+Most skin colors and types can benefit from chemical peels, though it is best to check with your esthetician about which peel might be right for you. If you’re taking acne medication, Retin-A or Accutane, talk to your esthetician and/or doctor about stopping the medication before and during treatment to avoid complications. Your esthetician can review any other contraindications with you prior to your treatment to determine if a chemical peel is right for you. Be sure to answer all questions honestly and completely on your consultation form prior to your peel.
+
+### What to expect during a chemical peel
+
+The skin is cleansed and a prep solution will be applied to remove surface oils and allow the peel to penetrate the skin evenly. Any sensitive areas that cannot be treated will be protected with a thin film of petroleum jelly. Your eyes will be covered to protect them. One or more chemical mixtures will be applied, such as glycolic acid (from sugar cane), trichloroacetic acid (similar to bleach), salicylic acid (wintergreen—good for acne), lactic acid (from milk), or a combination peel called a Jessners peel. The peel will be applied in 1–3 layers, depending on the depth of penetration intended. The acids react with the skin to produce a “controlled wound,” allowing fresh skin to regenerate and emerge. A tingling, burning or hot sensation is normal. Most peels remain on the skin only a few minutes, and are closely watched by the esthetician. A fan may help you stay more comfortable. After some peels, a neutralizing solution is applied to stop the peel. Other peels are self-timed and stop on their own.
+
+### After the peel
+
+After most peels, the skin will be pink to red, and look shiny and tight. It is vital to apply sunscreen of SFP 30 or greater to the skin for the next 48 hours, minimum. You must also stay out of the sun, as your skin will be very sensitive to UV rays and could be damaged by sun exposure. The skin will begin to flake or peel within 2–3 days after the treatment, unless you had a lactic acid peel—these encourage moisture retention and may not produce any actual peeling. Sun-damaged areas of your skin will appear darker at first, then will lighten. This is normal. Deeper peels can produce peeling for a week or more. To assist in removing the flaking skin, an enzyme peel or light microdermabrasion treatment is sometimes scheduled a week or so after the initial peel. For maximum results, a series of peels is usually recommended, and may be necessary for treating challenging issues such as hyperpigmentation. 
+
+### Home care after a chemical peel
+
+Your esthetician will recommend healing products to use for the week or two following your peel. These will soothe and nourish your skin, and aid in its recovery. Usually it is best to avoid makeup during this time, to allow the skin to heal and function without interference. However, if you must wear makeup, mineral makeup will not adversely affect the skin.
+
+### Your esthetician
+
+Your skin care treatments should be provided by a properly trained professional. Don’t hesitate to ask your skin care therapist about her background, training, and experience—especially as it relates to the treatment you are considering. Your therapist is a professional member of Associated Skin Care Professionals. Our members have been validated as meeting their state’s licensing credentials and/or core training requirements, and agree to follow a code of ethics which ensures you’ll be treated responsibly and with the utmost respect. ASCP also provides its members with comprehensive resources that allow them to keep up with changing trends, making certain you’ll receive the most up-to-date therapies available.

@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#page-content {
+  animation-name:animatebottom;
+  animation-duration: 1s;
+  position: relative;
+}
+@keyframes animatebottom {
+  from{bottom: -100px; opacity: 0;}
+  to{bottom: 0px; opacity: 1; }
+}
+
+  .honeycombs {
+    animation-name:animatehoney;
+    animation-duration: 2s;
+  }
+  @keyframes animatehoney {
+  from{bottom: -100px; opacity: 0;}
+  to{bottom: 0px; opacity: 1; }
+}
+#spinner {
+  width: 120px;
+  height: 120px;
+  background: trasparent;
+  border-left: 10px solid orange;
+  border-right: 10px solid orange;
+  border-top: 10px solid #ccc;
+  border-bottom: 10px solid #ccc;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -60px;
+  margin-top: -60px;
+  animation: loader 1s linear infinite;
+}
+@keyframes loader {
+  100% {
+    transform: rotate(360deg);
+  }
+}
