@@ -20,7 +20,7 @@ function AboutUs() {
                         </p>
                         <p>
                             We are located in Kaukauna, Wisconsin, in the Heart of the Fox Valley.  Within minutes of Appleton, Wrightstown, Little Chute and Freedom.  
-                            <a style={{color: '#222'}} href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank">Schedule</a>
+                            <a style={{color: '#222'}} href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">Schedule</a>
                             an appointment today!
                         </p>
                     </div>

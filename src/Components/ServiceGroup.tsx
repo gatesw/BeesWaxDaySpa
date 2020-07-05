@@ -1,4 +1,4 @@
-import React, { Component, ReactNode } from 'react';
+import React, { ReactNode } from 'react';
 import ServiceCard, { IServiceInfo } from './ServiceCard';
 
 export interface ServiceGroupProps {

@@ -1,4 +1,4 @@
-import React, { Component, ReactNode } from 'react';
+import React, { ReactNode } from 'react';
 import downArrow from '../assets/img/down-arrow.png';
 import specials from '../assets/img/specials-icon.png';
 import ServicesBooNow from './ServicesBookNow';

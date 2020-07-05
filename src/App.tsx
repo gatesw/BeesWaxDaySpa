@@ -2,10 +2,7 @@ import React from 'react';
 import {
   BrowserRouter,
   Switch,
-  Route,
-  Link,
-  useParams,
-  useRouteMatch
+  Route
 } from "react-router-dom";
 import 'font-awesome/css/font-awesome.min.css';
 import './assets/scss/App.scss';

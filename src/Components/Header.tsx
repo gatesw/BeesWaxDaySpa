@@ -8,12 +8,12 @@ function Header() {
                 <div className="container">
                     <ul className="nav navbar-nav w-100 justify-content-end">
                         <li>
-                        <a href="https://www.facebook.com/beeswaxspa/" target="_blank">
+                        <a href="https://www.facebook.com/beeswaxspa/" target="_blank" rel="noopener noreferrer">
                         <span className="fa fa-facebook-square" aria-hidden="true"></span>
                         </a>
                         </li>
                         <li>
-                        <a href="https://www.instagram.com/explore/locations/1981098618781414/beeswax-spa/" target="_blank">
+                        <a href="https://www.instagram.com/explore/locations/1981098618781414/beeswax-spa/" target="_blank" rel="noopener noreferrer">
                         <span className="fa fa-instagram" aria-hidden="true"></span>
                         </a>
                         </li>
@@ -27,7 +27,7 @@ function Header() {
                         <a href="/contact">Contact</a>
                         </li>
                         <li>
-                        <a href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank">Book Now</a>
+                        <a href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">Book Now</a>
                         </li>
                     </ul>
                 </div>
@@ -58,7 +58,7 @@ function Header() {
                             <a className="nav-link" href="/waxing">Waxing</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://www.doterra.com/US/en/site/jinnysmassage" target="_blank">Essential Oils</a>
+                            <a className="nav-link" href="https://www.doterra.com/US/en/site/jinnysmassage" target="_blank" rel="noopener noreferrer">Essential Oils</a>
                         </li>
                         </ul>
                     </div>
