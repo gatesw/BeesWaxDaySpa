@@ -62,27 +62,18 @@ header {
 			}
 		}
 	}
-	nav#primary-nav {
-		.navbar-toggler {
-			position: absolute;
-			top: 0;
-			right: 0;
-			font-size: 30px;
-			color: #f19610;
-		}
-		ul {
-			li {
-				a {
-					color: #222;
-					-moz-transition: .15s color ease-in-out;
-					-o-transition: .15s color ease-in-out;
-					-webkit-transition: .15s color ease-in-out;
-					transition: .15s color ease-in-out;
-					&:hover {
-						color: #fcb141;
-					}
-				}
-			}
+}
+
+.main-nav {
+	width: 100%;
+	a {
+		color: #222 !important;
+		-moz-transition: .15s color ease-in-out !important;
+		-o-transition: .15s color ease-in-out !important;
+		-webkit-transition: .15s color ease-in-out !important;
+		transition: .15s color ease-in-out !important;
+		&:hover {
+			color: #fcb141 !important;
 		}
 	}
 }
