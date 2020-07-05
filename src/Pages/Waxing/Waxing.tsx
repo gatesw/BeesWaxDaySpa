@@ -21,7 +21,7 @@ function Waxing({ pageData, ...rest }: WaxingProps) {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutWaxing />
             <Services headerText='Services' showSpecials={true}>

@@ -26,7 +26,7 @@ function Specials({ pageData, ...rest }: SpecialsProps) {
             </div>
           </div>
         </section>
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <Services>
               <ServicesGroup serviceInfos={pageData.services} />
             </Services>

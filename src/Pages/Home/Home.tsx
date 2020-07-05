@@ -18,22 +18,24 @@ export interface HomeProps {
 function Home({ pageData, ...rest }: HomeProps) {
     return (
       <Layout>
-        <TopCarousel />  
-        <div className="container-fluid">  
-            <HoneyCombs />  
-            <AboutUs />
-            <Testimonials testimonials={pageData.testimonials} />  
-            <section id="s-map">
-                <div id="map-image"></div>
-                <div className="map-content text-center">
-                  <h1>Come Find Us</h1>
-                    <div className="border-box-orange"></div><br/>
-                    <div className="btn-group text-center">
-                      <a className="btn btn-primary no-underline" href="/contact">Contact</a>
-                      <a className="btn btn-primary no-underline" href="/contact">Location</a>
-                    </div>
-                </div>
-            </section>  
+        <div className="fade-in">
+          <TopCarousel />  
+          <div className="container-fluid">  
+              <HoneyCombs />  
+              <AboutUs />
+              <Testimonials testimonials={pageData.testimonials} />  
+              <section id="s-map">
+                  <div id="map-image"></div>
+                  <div className="map-content text-center">
+                    <h1>Come Find Us</h1>
+                      <div className="border-box-orange"></div><br/>
+                      <div className="btn-group text-center">
+                        <a className="btn btn-primary no-underline" href="/contact">Contact</a>
+                        <a className="btn btn-primary no-underline" href="/contact">Location</a>
+                      </div>
+                  </div>
+              </section>  
+          </div>
         </div>
       </Layout>	
     ); 

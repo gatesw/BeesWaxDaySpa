@@ -21,7 +21,7 @@ function Nails({ pageData, ...rest }: NailsProps) {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutNails />
             <Services headerText='Services' showSpecials={true}>

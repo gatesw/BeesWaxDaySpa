@@ -20,7 +20,7 @@ function SkinCare({ pageData, ...rest }: SkinCareProps) {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutSkinCare />
             <Services headerText='Services' showSpecials={true}>

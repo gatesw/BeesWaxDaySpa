@@ -21,7 +21,7 @@ function Massage({ pageData, ...rest }: MassageProps) {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutMassage />
             <Services headerText='Services' showSpecials={true}>

@@ -12,14 +12,14 @@ code {
     monospace;
 }
 
-#page-content {
+.fade-in {
   animation-name:animatebottom;
   animation-duration: 1s;
   position: relative;
 }
 @keyframes animatebottom {
-  from{bottom: -100px; opacity: 0;}
-  to{bottom: 0px; opacity: 1; }
+  0% {opacity:0;}
+  100% {opacity:1;}
 }
 
   .honeycombs {

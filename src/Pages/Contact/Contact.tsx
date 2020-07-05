@@ -6,7 +6,7 @@ function Contact() {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
           <section id="s-serviceBar">
             <div className="row">
                 <div className="col-lg-3 col-md-6 text-center nomarpad">			

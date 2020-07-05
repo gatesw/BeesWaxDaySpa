@@ -29,7 +29,7 @@ function Faq({ pageData, ...rest }: FaqProps) {
     return (
       <Layout>
         <ScheduleAppointmentHeader />
-        <div className="container-fluid">
+        <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <section id="test-intro">
               <div className="container section-padding">

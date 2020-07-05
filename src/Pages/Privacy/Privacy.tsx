@@ -10,7 +10,7 @@ function Privacy() {
                 <h1>Privacy Policy</h1>
             </div>
             </section>
-            <div className="container-fluid">
+            <div className="container-fluid fade-in">
                 <section id="test-intro">
                   <div className="container section-padding">
                     <div className="row">
