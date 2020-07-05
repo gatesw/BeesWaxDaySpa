@@ -1,5 +1,5 @@
 import React from 'react';
-import beeswaxLogo from '../assets/img/beeswax.jpg';
+import beeswaxLogo from '../assets/img/beeswax.png';
 
 function Header() {
     return (
