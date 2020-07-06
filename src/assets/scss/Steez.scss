@@ -87,6 +87,9 @@ section.h-slide {
 section#call-out {
 	position: relative;
 	padding: 16.6px 0;
+	width: 100%;
+	background-attachment: fixed;
+	background-image: url(../img/slideshow/slide-bg.jpg);
 }
 
 section#s-about {
@@ -129,6 +132,9 @@ section#s-serviceBar {
 		-webkit-transition: .16s all ease-in-out;
 		-o-transition: .16s all ease-in-out;
 		transition: .16s all ease-in-out;
+	}
+	a {
+		color: black;
 	}
 }
 

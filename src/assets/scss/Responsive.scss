@@ -19,7 +19,11 @@
 		float: none !important;
 	}
 	
-	.desktop-only { display: none; }
+	.desktop-only { display: none; }	
+	
+	body {
+		padding-top: 0px; 
+	}
 }
 
 @media screen and (min-width:767px){
@@ -31,6 +35,10 @@
 		}
 	}
 	.mobile-only { display: none; }
+	
+	body {
+		padding-top: 45px; 
+	}
 }
 
 @media screen and (max-width:1000px){
@@ -48,16 +56,6 @@
 }
 
 @media screen and (min-width:1001px){
-	section#call-out {
-   		margin-top: -140px;
-	}
-	section#call-out {
-		.honeycombs-wrapper {
-			.honeycombs-inner-wrapper {
-				height: 900px !important;
-			}
-		}
-	}
 	.clientsSayCarousel {
 		.carousel-inner {
 			height: 185px;
@@ -70,6 +68,9 @@
 			right: -120px;
 			transform: rotate(-7deg);
 		}	
+	}
+	body {
+		padding-top: 45px; 
 	}
 }
 

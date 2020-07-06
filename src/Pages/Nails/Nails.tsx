@@ -6,6 +6,7 @@ import { IServiceInfo } from '../../Components/ServiceCard';
 import AboutNails from './AboutNails';
 import ServicesGroup from '../../Components/ServiceGroup';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
+import SharedNavication from '../../Components/SharedNavigation';
 
 export interface NailsPageData {
     services: IServiceInfo[];
@@ -20,6 +21,7 @@ export interface NailsProps {
 function Nails({ pageData, ...rest }: NailsProps) {
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />

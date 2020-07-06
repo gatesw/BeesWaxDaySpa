@@ -1,10 +1,12 @@
 import React from 'react';
 import Layout from '../../Components/Layout';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
+import SharedNavication from '../../Components/SharedNavigation';
 
 function Contact() {
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
           <section id="s-serviceBar">

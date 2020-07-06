@@ -4,6 +4,7 @@ import Services from '../../Components/Services';
 import { IServiceInfo } from '../../Components/ServiceCard';
 import ServicesGroup from '../../Components/ServiceGroup';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
+import SharedNavication from '../../Components/SharedNavigation';
 
 export interface SpecialsPageData {
     services: IServiceInfo[];
@@ -16,6 +17,7 @@ export interface SpecialsProps {
 function Specials({ pageData, ...rest }: SpecialsProps) {
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <section id="massage-intro">
           <div className="container section-padding">

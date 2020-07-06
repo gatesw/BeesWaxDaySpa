@@ -6,6 +6,7 @@ import { IServiceInfo } from '../../Components/ServiceCard';
 import ServicesGroup from '../../Components/ServiceGroup';
 import AboutWaxing from './AboutWaxing';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
+import SharedNavication from '../../Components/SharedNavigation';
 
 export interface WaxingPageData {
     mensServices: IServiceInfo[];
@@ -20,6 +21,7 @@ export interface WaxingProps {
 function Waxing({ pageData, ...rest }: WaxingProps) {
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />

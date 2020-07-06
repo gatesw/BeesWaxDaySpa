@@ -6,6 +6,7 @@ import ServicesBar, { IServiceBarInfo } from '../../Components/ServicesBar';
 import { IServiceInfo } from '../../Components/ServiceCard';
 import ServicesGroup from '../../Components/ServiceGroup';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
+import SharedNavication from '../../Components/SharedNavigation';
 
 export interface MassagePageData {
     services: IServiceInfo[];
@@ -20,6 +21,7 @@ export interface MassageProps {
 function Massage({ pageData, ...rest }: MassageProps) {
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />

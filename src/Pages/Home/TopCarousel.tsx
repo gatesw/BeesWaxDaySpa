@@ -9,7 +9,7 @@ function TopCarousel() {
     return (
         <section className="h-slide">
             <div className="container">
-                <Carousel indicators={false}>
+                <Carousel indicators={false} controls={false}>
                     <Carousel.Item>
                     <img className="d-block w-100" src={slide1} alt="Beeswax Spa" />
                     </Carousel.Item>

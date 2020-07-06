@@ -1,10 +1,13 @@
 import React from 'react';
 
 export interface IServiceBarInfo {
-    item1: string,
-    item2: string,
-    item3: string, 
-    item4: string
+    services: IServiceBarItem[]
+}
+
+export interface IServiceBarItem {
+    display: string,
+    serviceId: string,
+    backgroundColor: string
 }
 
 export interface ServicesBarProps {
@@ -15,26 +18,17 @@ export interface ServicesBarProps {
     return (
         <section id="s-serviceBar">
             <div className="row">
-                <div className="col-lg-3 col-md-6 text-center nomarpad">			
-                    <article style={{backgroundColor: '#FFD28F'}}>
-                        <h4>{serviceBarInfo.item1}</h4>
-                    </article>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center nomarpad">
-                    <article style={{backgroundColor: '#FFC165'}}>
-                        <h4>{serviceBarInfo.item2}</h4>
-                    </article>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center nomarpad">
-                    <article style={{backgroundColor: '#F09610'}}>
-                        <h4>{serviceBarInfo.item3}</h4>
-                    </article>
-                </div>
-                <div className="col-lg-3 col-md-6 text-center nomarpad">
-                    <article style={{backgroundColor: '#B56F07'}}>
-                        <h4>{serviceBarInfo.item4}</h4>
-                    </article>
-                </div>
+                {
+                    serviceBarInfo.services.map((service, idx) => (
+                        <div key={idx} className="col-lg-3 col-md-6 text-center nomarpad">
+                            <a href={service.serviceId} className="no-underline">
+                                <article style={{backgroundColor: `${service.backgroundColor}`}}>
+                                    <h4>{service.display}</h4>
+                                </article>
+                            </a>
+                        </div>
+                    ))
+                }
             </div>
         </section>
     ); 

@@ -4,6 +4,8 @@ import skinThumb from '../../assets/img/skin-thumb.png';
 import nailsThumb from '../../assets/img/nails-thumb.png';
 import waxingThumb from '../../assets/img/waxing-thumb.png';
 import specThumb from '../../assets/img/spec-thumb.png';
+import essentialOilsThumb from '../../assets/img/essential-oils-thumb.png';
+import bookThumb from '../../assets/img/book-thumb.png';
 
 function HoneyCombs() {
     return (
@@ -11,7 +13,7 @@ function HoneyCombs() {
         <div className="container">
           <div className="row">
             <div className="honeycombs">
-              <ul id="hexGrid">
+              <ul className="hexGrid">
                 <li className="hex">
                   <a className="hexIn" href="/massage">
                     <img src={massageThumb} alt="" />
@@ -49,6 +51,22 @@ function HoneyCombs() {
                     <img src={specThumb} alt="" />
                     <span>
                       <p>Specials</p>
+                    </span>
+                  </a>
+                </li>
+                <li className="hex">
+                  <a className="hexIn" href="https://www.doterra.com/US/en/site/jinnysmassage"  target="_blank" rel="noopener noreferrer">
+                    <img src={essentialOilsThumb} alt="" />
+                    <span>
+                      <p>Essential Oils</p>
+                    </span>
+                  </a>
+                </li>
+                <li className="hex">
+                  <a className="hexIn" href="https://www.massagebook.com/home/img/getbutton/button-booknow.png"  target="_blank" rel="noopener noreferrer">
+                    <img src={bookThumb} alt="" />
+                    <span>
+                      <p>Schedule Appointment</p>
                     </span>
                   </a>
                 </li>

@@ -1,11 +1,11 @@
 import React from 'react';
 import 'font-awesome/css/font-awesome.min.css';
 import '../../assets/scss/App.scss';
-import TopCarousel from './TopCarousel';
 import HoneyCombs from './HoneyCombs';
 import AboutUs from './AboutUs';
 import Testimonials, { ITestimonial } from './Testimonials';
 import Layout from '../../Components/Layout';
+import beeswaxLogo from '../../assets/img/beeswax-large.jpg';
 
 export interface HomePageData {
   testimonials: ITestimonial[];
@@ -19,9 +19,13 @@ function Home({ pageData, ...rest }: HomeProps) {
     return (
       <Layout>
         <div className="fade-in">
-          <TopCarousel />  
+        <header id="top" className="d-flex justify-content-center">
+          <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>
+        </header>
+        <HoneyCombs />
+          {/* <TopCarousel />   */}
           <div className="container-fluid">  
-              <HoneyCombs />  
+              
               <AboutUs />
               <Testimonials testimonials={pageData.testimonials} />  
               <section id="s-map">

@@ -5,6 +5,7 @@ import Card from 'react-bootstrap/Card';
 import Accordion from 'react-bootstrap/Accordion';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
 import Layout from '../../Components/Layout';
+import SharedNavication from '../../Components/SharedNavigation';
 
 export interface IFaq {
   question: string,
@@ -28,6 +29,7 @@ function Faq({ pageData, ...rest }: FaqProps) {
 
     return (
       <Layout>
+        <SharedNavication />
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
