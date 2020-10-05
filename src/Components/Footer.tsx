@@ -4,8 +4,7 @@ function Footer() {
     return (
         <footer id="bottom">
             <div className="container">
-                <p className="text-center">
-                    
+                <p className="text-center">                    
                     <a style={{color: '#222'}} href="tel:9204627120">920-462-7120</a> - 500 Lawe Street, Kaukauna, WI 54130
                 </p>
                 <p className="text-center">
@@ -17,7 +16,7 @@ function Footer() {
                         <img src="https://www.massagebook.com/home/img/getbutton/button-booknow.png" alt="Book Now on MassageBook.com!" style={{border: 0}} />
                     </a>                    
                     <a href="https://www.massagebook.com/BeeswaxSpa?src=external#gift-certificates" target="_blank" rel="noopener noreferrer">
-                        <img src="http://www.massagebook.com/home/img/button-gift.png" alt="Purchase gift card on MassageBook.com!" style={{border: 0}} width="145.5" height="97.5" />
+                        <img src="https://www.massagebook.com/home/img/button-gift.png" alt="Purchase gift card on MassageBook.com!" style={{border: 0}} width="145.5" height="97.5" />
                     </a>
                 </p>
             </div>
