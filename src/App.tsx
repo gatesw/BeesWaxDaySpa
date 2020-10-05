@@ -10,7 +10,6 @@ import Home from './Pages/Home/Home';
 import Contact from './Pages/Contact/Contact';
 import SkinCare from './Pages/Facials/SkinCare';
 import Massage from './Pages/Massage/Massage';
-import Nails from './Pages/Nails/Nails';
 import Waxing from './Pages/Waxing/Waxing';
 import Faq from './Pages/Faq/Faq';
 import Privacy from './Pages/Privacy/Privacy';
@@ -30,9 +29,6 @@ function App() {
         </Route>
         <Route path="/massage" >
           <Massage pageData={data.massage} />
-        </Route>
-        <Route path="/nails">
-          <Nails pageData={data.nails} />
         </Route>
         <Route path="/waxing">
           <Waxing pageData={data.waxing} />

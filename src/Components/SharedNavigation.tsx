@@ -18,7 +18,6 @@ function SharedNavication() {
                         <Nav.Link href="/" className="main-nav-link">Home</Nav.Link>
                         <Nav.Link href="/massage" className="main-nav-link">Massage</Nav.Link>
                         <Nav.Link href="/skin-care" className="main-nav-link">Facials</Nav.Link>
-                        <Nav.Link href="/nails" className="main-nav-link">Nails</Nav.Link>
                         <Nav.Link href="/waxing" className="main-nav-link">Waxing</Nav.Link>
                         <Nav.Link href="https://www.doterra.com/US/en/site/jinnysmassage" target="_blank" rel="noopener noreferrer" className="main-nav-link">Essential Oils</Nav.Link>
                     </Nav>

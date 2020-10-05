@@ -49,13 +49,8 @@
         "services": [
             {
                 "name": "Team Beeswax",
-                "description": "We have such a great massage team here at Beeswax. We would love you to try all three of us. Starting Monday September 16, 2019 : Get a card punch with the therapist you received your massage with. Collect all 3 and receive a $10 off your next massage.",
+                "description": "We have such a great massage team here at Beeswax. We would love you to try all three of us. Get a card punch with the therapist you received your massage with. Collect all 3 and receive a $10 off your next massage.",
                 "price": "collect 3 recieve $10 off"
-            },
-            {
-                "name": "Nail Art",
-                "description": "Receive nail art free on 2 fingers when you purchase a deluxe service.",
-                "price": "Free with Purchase"
             }
         ]
     },
@@ -193,117 +188,6 @@
                 "id": "BeeswaxSpecial",
                 "name": "Beeswax Special",
                 "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial."
-            }
-        ]
-    },
-    "nails": {
-        "serviceBar": {
-            "services": [
-                {
-                    "display": "Express Manicure",
-                    "serviceId": "#ExpressManicure",
-                    "backgroundColor": "#FFD28F"
-                },
-                {
-                    "display": "Milk and Honey Manicure",
-                    "serviceId": "#MilkAndHoneyManicure",
-                    "backgroundColor": "#FFC165"
-                },
-                {
-                    "display": "Nail Enhancements",
-                    "serviceId": "#hours-rates",
-                    "backgroundColor": "#F09610"
-                },
-                {
-                    "display": "Pedicures",
-                    "serviceId": "#hours-rates",
-                    "backgroundColor": "#B56F07"
-                }
-            ]
-        },
-        "services": [
-            {
-                "id": "ExpressManicure", 
-                "name": "Express Manicure",
-                "description": "*includes - soak, file/trim, massage with lotion, polish"
-            },
-            {
-                "id": "MilkAndHoneyManicure",
-                "name": "Milk and Honey Manicure",
-                "description": "*includes - soak, cuticle care and scrub, nail shaping, dermal wrap hot butter massage, choice of polish"
-            },        
-            {
-                "id": "ShellacGelManicure",
-                "name": "Shellac/Gel Manicure",
-                "description": "*includes dry manicure, nail shaping and shellac or gel polish"
-            },
-            {
-                "id": "DIPFullSetOverlay",
-                "name": "DIP -Full set overlay",
-                "description": "*includes dry manicure, nail shaping and a full nail overlay with Cuccio Dip system"
-            },        
-            {
-                "id": "TIPFullSet",
-                "name": "TIP -Full set",
-                "description": "*includes the application of tips as nail enchancements"
-            },        
-            {
-                "id": "DIPAndTIP",
-                "name": "DIP and TIP",
-                "description": ""
-            },        
-            {
-                "id": "ExpressPedicure",
-                "name": "Express Pedicure",
-                "description": "Can't reach your feet? Our express pedicure includes a soak and file/trim to keep your feet looking good."
-            },        
-            {
-                "id": "MilkAndHoneyPedicure",
-                "name": "Milk and Honey Pedicure",
-                "description": "Milk and Honey Soak, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Hot Scented Towel, Milk and Honey Massage, & Polish"
-            },        
-            {
-                "id": "QueenBeePedicure",
-                "name": "Queen Bee Pedicure",
-                "description": "Effervescent Milk and Honey Bath, Apple Cuticle Care, Milk and Honey Exfoliating Scrub, Callus Remover, Deep Transforming Moisture Wrap, Milk and Honey Massage, Moisture Heel Treatment, & Polish"
-            }
-        ],
-        "addOns": [
-            {
-                "name": "Shellac/gell add on",
-                "description": ""
-            },
-            {
-                "name": "Shellac/gell removal only",
-                "description": ""
-            },
-            {
-                "name": "Shellac/gell change only",
-                "description": ""
-            },
-            {
-                "name": "Dip or Tip removal only",
-                "description": ""
-            },
-            {
-                "name": "Rejuvenating/strengthening treatment - Add-on",
-                "description": ""
-            },
-            {
-                "name": "Paraffin Treatment",
-                "description": ""
-            },
-            {
-                "name": "Nail polish color change only",
-                "description": ""
-            },
-            {
-                "name": "French",
-                "description": ""
-            },
-            {
-                "name": "Nail Art",
-                "description": ""
             }
         ]
     },
@@ -462,11 +346,6 @@
                     "display": "Skin Care & Facials",
                     "serviceId": "#faqs-facials",
                     "backgroundColor": "#FFC165"
-                },
-                {
-                    "display": "Nails",
-                    "serviceId": "#faqs-massages",
-                    "backgroundColor": "#F09610"
                 },
                 {
                     "display": "Waxing",

@@ -1,7 +1,6 @@
 import React from 'react';
 import massageThumb from '../../assets/img/massage-thumb.png';
 import skinThumb from '../../assets/img/skin-thumb.png';
-import nailsThumb from '../../assets/img/nails-thumb.png';
 import waxingThumb from '../../assets/img/waxing-thumb.png';
 import specThumb from '../../assets/img/spec-thumb.png';
 import essentialOilsThumb from '../../assets/img/essential-oils-thumb.png';
@@ -27,14 +26,6 @@ function HoneyCombs() {
                     <img src={skinThumb} alt="" />
                     <span>
                       <p>Facials/Skin</p>
-                    </span>
-                  </a>
-                </li>
-                <li className="hex">
-                  <a className="hexIn" href="/nails">
-                    <img src={nailsThumb} alt="" />
-                    <span>
-                      <p>Nails</p>
                     </span>
                   </a>
                 </li>
