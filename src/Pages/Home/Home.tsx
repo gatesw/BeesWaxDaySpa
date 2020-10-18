@@ -22,7 +22,7 @@ function Home({ pageData, ...rest }: HomeProps) {
       <Layout>
         <div className="fade-in">
         <header id="top" className="d-flex justify-content-center">
-          <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>
+            <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>       
         </header>
         {pageData.anouncement && <AnnouncementBanner html={pageData.anouncement} />}
         <HoneyCombs />

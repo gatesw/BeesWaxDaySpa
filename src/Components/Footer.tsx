@@ -5,7 +5,7 @@ function Footer() {
         <footer id="bottom">
             <div className="container">
                 <p className="text-center">                    
-                    <a style={{color: '#222'}} href="tel:9204627120">920-462-7120</a> - 500 Lawe Street, Kaukauna, WI 54130
+                    <a style={{color: '#222'}} href="tel:9204627120">920-462-7120</a> - 374 E Ann St. Kaukauna, WI 54130
                 </p>
                 <p className="text-center">
                     &copy; 2020 Beeswax Spa | All rights reserved <br />

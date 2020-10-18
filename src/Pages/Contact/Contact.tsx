@@ -35,7 +35,7 @@ function Contact() {
         </section>
           <section id="map-location">
               <div className="map-responsive">
-                <iframe title="location-map" width="600" height="450" frameBorder="0" style={{border:0}} src="https://www.google.com/maps/embed/v1/place?q=500%20Lawe%20St.%20%20Kaukauna%2C%20WI%2054130&amp;key=AIzaSyBM7dqAfoucIW2fC9tDxW50nU3a4sqQAiw" allowFullScreen={false}></iframe>
+                <iframe title="location-map" width="600" height="450" frameBorder="0" style={{border:0}} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2857.447244217191!2d-88.2730249486886!3d44.25961767900268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8803af115218604d%3A0xb3c7ef558f7b6a47!2s374%20E%20Ann%20St%2C%20Kaukauna%2C%20WI%2054130!5e0!3m2!1sen!2sus!4v1603042097511!5m2!1sen!2sus" allowFullScreen={false}></iframe>
               </div>
           </section>
           <section id="hours-section">
