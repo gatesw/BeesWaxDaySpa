@@ -5,8 +5,16 @@ import { IServiceInfo } from '../../Components/ServiceCard';
 import ServicesGroup from '../../Components/ServiceGroup';
 import ScheduleAppointmentHeader from '../../Components/ScheduleAppointmentHeader';
 import SharedNavication from '../../Components/SharedNavigation';
+import { Card } from 'react-bootstrap';
+import RenderMarkDown from '../../Components/RenderMarkDown';
+
+export interface FeaturedSpecialData {
+  title?: string;
+  mdFile?: string;
+}
 
 export interface SpecialsPageData {
+    featured?: FeaturedSpecialData;
     services: IServiceInfo[];
 }
 
@@ -30,6 +38,12 @@ function Specials({ pageData, ...rest }: SpecialsProps) {
         </section>
         <div className="container-fluid fade-in">
             <Services>
+            <div className="service-card col-xs-6">
+                <Card>
+                    <Card.Title>{pageData.featured?.title}</Card.Title>
+                    <Card.Text className="text-center"><RenderMarkDown mdFile={pageData.featured?.mdFile} /></Card.Text>
+                </Card>
+            </div>
               <ServicesGroup serviceInfos={pageData.services} />
             </Services>
         </div>

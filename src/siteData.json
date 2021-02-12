@@ -45,14 +45,11 @@
         ]
     },
     "specials": {
-        "massageRates": "60 minutes $60 / 90 minutes for $90 / 120 minutes for $120",
-        "services": [
-            {
-                "name": "Team Beeswax",
-                "description": "We have such a great massage team here at Beeswax. We would love you to try all three of us. Get a card punch with the therapist you received your massage with. Collect all 3 and receive a $10 off your next massage.",
-                "price": "collect 3 recieve $10 off"
-            }
-        ]
+        "services": [],
+        "featured": {
+            "title": "Team Beeswax",
+            "mdFile": "Special"
+        }
     },
     "massage": {
         "massageRates": "60 minutes $60 / 90 minutes for $90 / 120 minutes for $120",
