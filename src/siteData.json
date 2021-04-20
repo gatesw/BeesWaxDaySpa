@@ -149,12 +149,12 @@
             {
                 "id": "EuropeanFacials",
                 "name": "European Facial",
-                "description": "Short on time? This 30 minute facial is perfect. This facial includes a cleansing, followed by an exfoliation mask, toner and finished with a moisturizer to nourish and protect your skin."
+                "description": "Relax for 60 minutes as your face, neck and upper shoulders are double cleansed with specific products for your skin type. Your skin will then be inspected for specific concerns. The exfoliation mask is accompanied by a hand and arm massage before its removal with warm towels and toner is applied. A facial massage stimulates the skin and muscles in preparation for treatment mask and scalp massage while the mask sets. Moisturizer finishes the facial leaving your skin cleansed refreshed and protected."
             },
             {
                 "id": "MiniFacial",
                 "name": "Mini Facial",
-                "description": "This type of massage involves long flowing movements and kneading movements. It is designed to bring relaxation to sore and tired muscles."
+                "description": "Short on time? This 30 minute facial is perfect. This facial includes a cleansing, followed by an exfoliation mask, toner and finished with a moisturizer to nourish and protect your skin."
             },        
             {
                 "id": "GentlemansFacial",
@@ -184,7 +184,7 @@
             {
                 "id": "BeeswaxSpecial",
                 "name": "Beeswax Special",
-                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial."
+                "description": "A European facial and a 30 minute Swedish massage."
             }
         ]
     },
