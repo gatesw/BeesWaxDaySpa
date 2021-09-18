@@ -15,6 +15,7 @@ import Faq from './Pages/Faq/Faq';
 import Privacy from './Pages/Privacy/Privacy';
 import Specials from './Pages/Specials/Specials';
 import data from './siteData.json';
+import Reviews from './Pages/Reviews/Reviews';
 
 function App() {
   return (
@@ -39,6 +40,9 @@ function App() {
         <Route path="/privacy" component={Privacy} />
         <Route path="/specials">
           <Specials pageData={data.specials} />
+        </Route>
+        <Route path="/reviews">
+          <Reviews />
         </Route>
       </Switch>
     </BrowserRouter>

@@ -61,6 +61,14 @@ function HoneyCombs() {
                     </span>
                   </a>
                 </li>
+                <li className="hex">
+                  <a className="hexIn" href="/reviews">
+                    <img src={bookThumb} alt="" />
+                    <span>
+                      <p>Read Reviews</p>
+                    </span>
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
