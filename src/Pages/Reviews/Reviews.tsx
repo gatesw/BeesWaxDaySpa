@@ -10,6 +10,7 @@ function Reviews() {
         <ScheduleAppointmentHeader />
         <div className="container-fluid fade-in">
             <iframe 
+                title="Reviews"
                 src="https://www.massagebook.com/reviewspublic/myReviews/1346658"
                 frameBorder="0"
                 width="100%"
