@@ -54,7 +54,7 @@ function HoneyCombs() {
                   </a>
                 </li>
                 <li className="hex">
-                  <a className="hexIn" href="https://www.massagebook.com/Kaukauna~Massage~BeeswaxSpa?src=external#services"  target="_blank" rel="noopener noreferrer">
+                  <a className="hexIn" href="/schedule/book-appointment">
                     <img src={bookThumb} alt="" />
                     <span>
                       <p>Schedule Appointment</p>
