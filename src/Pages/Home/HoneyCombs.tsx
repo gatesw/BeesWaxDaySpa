@@ -7,6 +7,8 @@ import essentialOilsThumb from '../../assets/img/essential-oils-thumb.png';
 import bookThumb from '../../assets/img/book-thumb.png';
 
 function HoneyCombs() {
+    var isAppleBrowser = navigator.vendor.includes('Apple')
+
     return (
         <section id="call-out">
         <div className="container">
@@ -54,12 +56,20 @@ function HoneyCombs() {
                   </a>
                 </li>
                 <li className="hex">
-                  <a className="hexIn" href="/schedule/book-appointment">
-                    <img src={bookThumb} alt="" />
-                    <span>
-                      <p>Schedule Appointment</p>
-                    </span>
-                  </a>
+                  {isAppleBrowser ? 
+                    <a className="hexIn" href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">
+                      <img src={bookThumb} alt="" />
+                      <span>
+                        <p>Schedule Appointment</p>
+                      </span>
+                    </a> :
+                    <a className="hexIn" href="/schedule/book-appointment">
+                      <img src={bookThumb} alt="" />
+                      <span>
+                        <p>Schedule Appointment</p>
+                      </span>
+                    </a> 
+                  }                  
                 </li>
                 <li className="hex">
                   <a className="hexIn" href="/reviews">
