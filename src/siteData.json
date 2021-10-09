@@ -52,7 +52,6 @@
         }
     },
     "massage": {
-        "massageRates": "60 minutes $60 / 90 minutes for $90 / 120 minutes for $120",
         "serviceBar": {
             "services": [
                 {
@@ -262,8 +261,7 @@
             {
                 "id": "MensBrazilian",
                 "name": "Brazilian",
-                "description": "",
-                "price": "Starts at $60"
+                "description": ""
             },
             {
                 "id": "MensButtocks",
@@ -273,8 +271,7 @@
             {
                 "id": "MensBackOrChest",
                 "name": "Back or Chest",
-                "description": "",
-                "price": "Starts at $45"
+                "description": ""
             }
         ],
         "womensServices": [

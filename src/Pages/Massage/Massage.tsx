@@ -27,7 +27,7 @@ function Massage({ pageData, ...rest }: MassageProps) {
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutMassage />
             <Services headerText='Services' showSpecials={true}>
-              <ServicesGroup serviceInfos={pageData.services} subHeading={(<>Massage Rates<br/> <i>{pageData.massageRates}</i>"</>)} />
+              <ServicesGroup serviceInfos={pageData.services} />
             </Services>
         </div>
       </Layout>
