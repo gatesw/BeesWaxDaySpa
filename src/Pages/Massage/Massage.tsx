@@ -10,7 +10,6 @@ import SharedNavication from '../../Components/SharedNavigation';
 
 export interface MassagePageData {
     services: IServiceInfo[];
-    massageRates: string;
     serviceBar: IServiceBarInfo;
 }
 
