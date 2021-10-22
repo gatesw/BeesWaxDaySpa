@@ -31,6 +31,9 @@ function Testimonials({ testimonials, ...rest }: Testimonials) {
                                 </Carousel.Item>
                             ))}                         
                         </Carousel>
+                        <div className="btn-group text-center reviews-button-container">
+                            <a className="btn btn-primary no-underline" href="/reviews">Read Reviews</a>
+                        </div>
                     </div>
                 </div>
             </div>

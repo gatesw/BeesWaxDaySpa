@@ -114,16 +114,26 @@ section#testimonials {
 		max-width: 160px;
 		margin: 0 auto;
 	}
-		.container { position: relative; }
-		.carousel-indicators {
-			bottom: -50px !important;
-			left: -70px !important;
-			li {
-				width: 15px !important;
-				height: 15px !important;
-			}
-			.active { background-color: orange !important; }
+	.container { position: relative; }
+	.carousel-indicators {
+		bottom: -50px !important;
+		left: -70px !important;
+		li {
+			width: 15px !important;
+			height: 15px !important;
 		}
+		.active { background-color: orange !important; }
+	}
+	.reviews-button-container {
+	  position: absolute;
+	  left: 50%;
+	  transform: translate(-50%,-50%);
+		h1 {
+			a {
+				color: #222;
+			}
+		}
+	}
 }
 section#s-serviceBar {
 	article {

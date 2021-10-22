@@ -15,7 +15,31 @@ function HoneyCombs() {
           <div className="row">
             <div className="honeycombs">
               <ul className="hexGrid">
+              <li className="hex">
+                  {isAppleBrowser ? 
+                    <a className="hexIn" href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">
+                      <img src={bookThumb} alt="" />
+                      <span>
+                        <p>Schedule Appointment</p>
+                      </span>
+                    </a> :
+                    <a className="hexIn" href="/schedule/book-appointment">
+                      <img src={bookThumb} alt="" />
+                      <span>
+                        <p>Schedule Appointment</p>
+                      </span>
+                    </a> 
+                  }                  
+                </li>
                 <li className="hex">
+                  <a className="hexIn" href="https://www.massagebook.com/BeeswaxSpa?src=external#gift-certificates" target="_blank" rel="noopener noreferrer">
+                    <img src={bookThumb} alt="" />
+                    <span>
+                      <p>Buy Gift Certificate</p>
+                    </span>
+                  </a>
+                </li>
+                <li className="hex">                  
                   <a className="hexIn" href="/massage">
                     <img src={massageThumb} alt="" />
                     <span>
@@ -54,31 +78,7 @@ function HoneyCombs() {
                       <p>Essential Oils</p>
                     </span>
                   </a>
-                </li>
-                <li className="hex">
-                  {isAppleBrowser ? 
-                    <a className="hexIn" href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">
-                      <img src={bookThumb} alt="" />
-                      <span>
-                        <p>Schedule Appointment</p>
-                      </span>
-                    </a> :
-                    <a className="hexIn" href="/schedule/book-appointment">
-                      <img src={bookThumb} alt="" />
-                      <span>
-                        <p>Schedule Appointment</p>
-                      </span>
-                    </a> 
-                  }                  
-                </li>
-                <li className="hex">
-                  <a className="hexIn" href="/reviews">
-                    <img src={bookThumb} alt="" />
-                    <span>
-                      <p>Read Reviews</p>
-                    </span>
-                  </a>
-                </li>
+                </li>            
               </ul>
             </div>
           </div>
