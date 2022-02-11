@@ -36,7 +36,7 @@ class RenderMarkDown extends React.Component<MarkDownProps, MarkDownLocalState> 
 
     render() {
         return (
-            <ReactMarkdown source={this.state.mdContent} />
+            <ReactMarkdown children={this.state.mdContent} />
         )
     }
 }
