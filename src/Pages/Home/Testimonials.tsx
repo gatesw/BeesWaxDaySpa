@@ -6,11 +6,11 @@ export interface ITestimonial {
     clientName?: string;
 }
 
-export interface Testimonials {
+export interface TestimonialProps {
     testimonials: ITestimonial[];
 }
 
-function Testimonials({ testimonials, ...rest }: Testimonials) {
+function Testimonials({ testimonials, ...rest }: TestimonialProps) {
     return (
         <section id="testimonials">
             <div className="container section-padding">
