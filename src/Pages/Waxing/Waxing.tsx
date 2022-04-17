@@ -26,7 +26,7 @@ function Waxing({ pageData, ...rest }: WaxingProps) {
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutWaxing />
-            <Services headerText='Services' showSpecials={true}>
+            <Services headerText='Services' showSpecials={false}>
               <ServicesGroup serviceInfos={pageData.womensServices} subHeading="Women's Waxing" />
               <ServicesGroup serviceInfos={pageData.mensServices} subHeading="Men's Waxing" />
             </Services>

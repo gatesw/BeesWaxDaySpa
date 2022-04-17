@@ -25,7 +25,7 @@ function Massage({ pageData, ...rest }: MassageProps) {
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutMassage />
-            <Services headerText='Services' showSpecials={true}>
+            <Services headerText='Services' showSpecials={false}>
               <ServicesGroup serviceInfos={pageData.services} />
             </Services>
         </div>

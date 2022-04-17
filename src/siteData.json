@@ -47,7 +47,7 @@
     "specials": {
         "services": [],
         "featured": {
-            "title": "Team Beeswax",
+            "title": "",
             "mdFile": "Special"
         }
     },
@@ -174,12 +174,7 @@
                 "id": "BackFacial",
                 "name": "Back Facial",
                 "description": "We got your back for this treatment. Your back is double cleansed, followed by a moisturizing mask removed with warm towels. Moisturizer finishes this treatment leaving the skin on your back refreshed."
-            },        
-            {
-                "id": "SpecialtyFacials",
-                "name": "Specialty Facials",
-                "description": "Specifically designed for your skin type and concerns, this facial is 90 of functional relaxation. After a double cleanse of the face, neck and upper shoulders a warm towel wrap and exfoliation mask refresh your skin as your hands and arms are lotioned and massaged. The treatment mask is accompanied by a scalp massage followed by the serum mask and foot massage. Moisturizing for protection and nourishment is the final step in this facial."
-            },        
+            },       
             {
                 "id": "BeeswaxSpecial",
                 "name": "Beeswax Special",

@@ -25,7 +25,7 @@ function SkinCare({ pageData, ...rest }: SkinCareProps) {
         <div className="container-fluid fade-in">
             <ServicesBar serviceBarInfo={pageData.serviceBar} />
             <AboutSkinCare />
-            <Services headerText='Services' showSpecials={true}>
+            <Services headerText='Services' showSpecials={false}>
               <ServicesGroup serviceInfos={pageData.services} />
             </Services>
         </div>
