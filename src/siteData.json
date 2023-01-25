@@ -98,16 +98,6 @@
                 "description": "This type of massage is directed at specific targeted muscle or group of muscles. Both the insertion and the origin of the muscle are addressed as well as the belly of the muscle in this massage."
             },        
             {
-                "id": "HotStoneAssist",
-                "name": "Hot Stone Assist",
-                "description": "One or two hot stones can aid in the softening of the muscle tissue to increase the relaxation and help in the tone of the muscle."
-            },        
-            {
-                "id": "HotStoneMassage",
-                "name": "Hot Stone Massage",
-                "description": "Hot stones are used throughout the massage to warm and relax the tissue."
-            },        
-            {
                 "id": "PregnancyMassage",
                 "name": "Pregnancy Massage",
                 "description": "A special body pillow is used to help expecting moms position for comfort during the massage. This massage is usually more in the swedish style but can also be directed at certain areas of discomfort as well."
