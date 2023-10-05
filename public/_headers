@@ -1,2 +1,2 @@
 /*
-    Content-Security-Policy: frame-src 'self' https://www.messagebook.com;
+    Content-Security-Policy: frame-src 'self' *
