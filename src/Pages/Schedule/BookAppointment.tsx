@@ -5,19 +5,15 @@ import SharedNavication from '../../Components/SharedNavigation';
 function BookAppointment() {
     return (
       <Layout>
-        <div className="massage-book-navigation-cover">
-            <SharedNavication />
-        </div>        
+        <SharedNavication />     
         <div className="container fade-in">
-            <div className="massage-book-appointment">
-                <iframe 
-                    title="Book Appointment"
-                    src="https://www.massagebook.com/therapists/BeeswaxSpa/widget/services"
-                    frameBorder="0"
-                    width="100%"
-                    height="1000">
-                </iframe>
-             </div>
+          <iframe 
+              title="Book Appointment"
+              src="https://www.massagebook.com/therapists/BeeswaxSpa/widget/services"
+              frameBorder="0"
+              width="100%"
+              height="1000">
+          </iframe>
         </div>
       </Layout>
     ); 
