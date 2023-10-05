@@ -12,7 +12,7 @@ function BookAppointment() {
             <div className="massage-book-appointment">
                 <iframe 
                     title="Book Appointment"
-                    src="https://www.massagebook.com/business/1346658/select-product/?src=external"
+                    src="https://www.massagebook.com/therapists/BeeswaxSpa/widget/services"
                     frameBorder="0"
                     width="100%"
                     height="1000">
