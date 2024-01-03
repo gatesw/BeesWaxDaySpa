@@ -57,7 +57,7 @@ function Contact() {
                       </tr>
                       <tr id="sh-WED" className="daily-Sched">
                         <td>Wednesday</td>
-                        <td>10:00 am	-	06:00 pm</td>
+                        <td>12:00 am	-	08:00 pm</td>
                       </tr>
                       <tr id="sh-THU" className="daily-Sched">
                         <td>Thursday</td>
@@ -69,7 +69,7 @@ function Contact() {
                       </tr>
                       <tr id="sh-SAT" className="daily-Sched">
                         <td>Saturday</td>
-                        <td>10:00 am	-	08:00 pm</td>
+                        <td>10:00 am	-	06:00 pm bi-weekly</td>
                       </tr>
                       <tr id="sh-SUN">
                         <td>Sunday</td>
