@@ -31,14 +31,6 @@ function HoneyCombs() {
                     </a> 
                   }                  
                 </li>
-                <li className="hex">
-                  <a className="hexIn" href="https://www.massagebook.com/BeeswaxSpa?src=external#gift-certificates" target="_blank" rel="noopener noreferrer">
-                    <img src={bookThumb} alt="" />
-                    <span>
-                      <p>Buy Gift Certificate</p>
-                    </span>
-                  </a>
-                </li>
                 <li className="hex">                  
                   <a className="hexIn" href="/massage">
                     <img src={massageThumb} alt="" />

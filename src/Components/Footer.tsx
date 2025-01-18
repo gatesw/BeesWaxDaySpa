@@ -14,9 +14,6 @@ function Footer() {
                 <p className="text-center">
                     <a href="https://www.massagebook.com/biz/BeeswaxSpa#services" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.massagebook.com/home/img/getbutton/button-booknow.png" alt="Book Now on MassageBook.com!" style={{border: 0}} />
-                    </a>                    
-                    <a href="https://www.massagebook.com/BeeswaxSpa?src=external#gift-certificates" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.massagebook.com/home/img/button-gift.png" alt="Purchase gift card on MassageBook.com!" style={{border: 0}} width="145.5" height="97.5" />
                     </a>
                 </p>
             </div>
