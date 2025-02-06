@@ -24,13 +24,12 @@ function Home({ pageData, ...rest }: HomeProps) {
         <header id="top" className="d-flex justify-content-center">
             <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>       
         </header>
-        {pageData.anouncement && <AnnouncementBanner html={pageData.anouncement} />}
+        <AnnouncementBanner />
         <HoneyCombs />
           {/* <TopCarousel />   */}
-          <div className="container-fluid">  
-              
+          <div className="container-fluid">
               <AboutUs />
-              <Testimonials testimonials={pageData.testimonials} />  
+              <Testimonials testimonials={pageData.testimonials} />
               <section id="s-map">
                   <div id="map-image"></div>
                   <div className="map-content text-center">
