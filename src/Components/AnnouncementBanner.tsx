@@ -7,19 +7,24 @@ function AnnouncementBanner() {
             <div className="container section-padding">
                 <div className="row">
                     <div className="col-md-12">
-                        <p>
-                            We write to you today with a heavy heart to announce that Beeswax Spa will be closing its doors permanently, effective Sept 30 2025.
+                        <p style={{ textAlign: 'center' }}>
+                            Our time line has moved up and we will be re relocating sooner than expected.
                         </p>
-                        <ul>
-                            <li>We extend our deepest gratitude to each of you who have received one of our services, celebrated your milestones with us, and recommended Beeswax to friends and family. Your support has been the cornerstone of our success.</li>
-                            <li>Gift certificates will remain valid until our closing date, and we encourage you to use any outstanding vouchers.</li>
-                            <li>As out closing date approaches we will update out website with the information about how you can connect with your therapist.</li>
-                        </ul>
-                        <p>
-                            Sincerely,
+                        <p style={{ textAlign: 'center', color: 'orange' }}>
+                            Beeswax Gift Certificates can still be used at both of the new locations until September 30, 2025.
                         </p>
                         <p>
-                            Team Beeswax
+                            June 1 st we will be at our new locations:<br/>
+                        </p>
+                        <p>
+                            Kim’s new studio: (Transformative Therapeutic Massage) <br/>
+                            Located at: 612 E Longview Dr. Appleton, WI 54911<br/>
+                            Phone: 920-515-4109
+                        </p>
+                        <p>
+                            Jinny’s new studio: (Jinny’s Massage) <br/>
+                            Located at 208 main street Kaukauna WI 54130 <br/>
+                            Phone: 920 462 7120 <br/>
                         </p>
                     </div>
                 </div>
