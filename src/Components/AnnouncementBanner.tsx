@@ -23,7 +23,7 @@ function AnnouncementBanner() {
                         </p>
                         <p>
                             Jinny’s new studio: (Jinny’s Massage) <br/>
-                            Located at 208 main street Kaukauna WI 54130 <br/>
+                            Located at 208 Main Avenue Kaukauna WI 54130 <br/>
                             Phone: 920 462 7120 <br/>
                         </p>
                     </div>
