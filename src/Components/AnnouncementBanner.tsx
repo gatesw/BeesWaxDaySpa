@@ -26,7 +26,7 @@ function AnnouncementBanner() {
                             Jinny’s new studio: (Jinny’s Massage) <br/>
                             Located at 208 Main Avenue Kaukauna WI 54130 <br/>
                             Phone: 920 462 7120 <br/>
-                            Website: <a href="https://jinnysmassage.com">Jinny's Massage</a> <br/>
+                            For Jinny please continue to book through beeswax spa
                         </p>
                     </div>
                 </div>
