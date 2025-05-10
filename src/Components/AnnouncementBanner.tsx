@@ -19,12 +19,14 @@ function AnnouncementBanner() {
                         <p>
                             Kim’s new studio: (Transformative Therapeutic Massage) <br/>
                             Located at: 612 E Longview Dr. Appleton, WI 54911<br/>
-                            Phone: 920-515-4109
+                            Phone: 920-515-4109<br/>
+                            Website: <a href="https://www.massagebook.com/therapists/transformative-therapeutic-massage-?src=external">Transformative Therapeutic Massage</a> <br/>
                         </p>
                         <p>
                             Jinny’s new studio: (Jinny’s Massage) <br/>
                             Located at 208 Main Avenue Kaukauna WI 54130 <br/>
                             Phone: 920 462 7120 <br/>
+                            Website: <a href="https://jinnysmassage.com">Jinny's Massage</a> <br/>
                         </p>
                     </div>
                 </div>
