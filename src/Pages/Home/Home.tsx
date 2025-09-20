@@ -21,27 +21,10 @@ function Home({ pageData, ...rest }: HomeProps) {
     return (
       <Layout>
         <div className="fade-in">
-        <header id="top" className="d-flex justify-content-center">
-            <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>       
-        </header>
-        <AnnouncementBanner />
-        <HoneyCombs />
-          {/* <TopCarousel />   */}
-          <div className="container-fluid">
-              <AboutUs />
-              <Testimonials testimonials={pageData.testimonials} />
-              <section id="s-map">
-                  <div id="map-image"></div>
-                  <div className="map-content text-center">
-                    <h1>Come Find Us</h1>
-                      <div className="border-box-orange"></div><br/>
-                      <div className="btn-group text-center">
-                        <a className="btn btn-primary no-underline" href="/contact">Contact</a>
-                        <a className="btn btn-primary no-underline" href="/contact">Location</a>
-                      </div>
-                  </div>
-              </section>  
-          </div>
+            <header id="top" className="d-flex justify-content-center">
+                <img className="img-fluid" src={beeswaxLogo} alt="beeswax spa"  style={{width: '364.5px', height: '95.5px'}}/>
+            </header>
+            <AnnouncementBanner />
         </div>
       </Layout>	
     ); 
