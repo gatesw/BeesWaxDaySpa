@@ -1,9 +1,7 @@
 import React from 'react';
 import 'font-awesome/css/font-awesome.min.css';
 import '../../assets/scss/App.scss';
-import HoneyCombs from './HoneyCombs';
-import AboutUs from './AboutUs';
-import Testimonials, { ITestimonial } from './Testimonials';
+import { ITestimonial } from './Testimonials';
 import Layout from '../../Components/Layout';
 import beeswaxLogo from '../../assets/img/beeswax-large.jpg';
 import AnnouncementBanner from '../../Components/AnnouncementBanner';
@@ -17,7 +15,7 @@ export interface HomeProps {
   pageData: HomePageData;
 }
 
-function Home({ pageData, ...rest }: HomeProps) {
+function Home() {
     return (
       <Layout>
         <div className="fade-in">

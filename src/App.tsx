@@ -23,7 +23,7 @@ function App() {
     <BrowserRouter>
       <Switch>
         <Route exact path="/">
-          <Home pageData={data.home} />
+          <Home />
         </Route>
         <Route path="/contact" component={Contact} />
         <Route path="/skin-care">
